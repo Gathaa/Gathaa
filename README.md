@@ -16,3 +16,8 @@
 [![](https://visitcount.itsvg.in/api?id=Gathaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏆 Achievements
+- 🥈 **AI Hackathon 2025:** Tackled LLM hallucination and data freshness issues with RAG + Milvus  
+- 🧩 **IEEEXtreme 16.0 & 17.0:** Top percentile in 24-hour global algorithmic contest  
+- 🎮 **GameDev Hackathon 2023:** Designed gamification strategies using Octalysis framework  
+- 💻 **WIE SMU Hackathon (Organizer & Participant)** – Advocating for women in tech  
